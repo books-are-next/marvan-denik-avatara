@@ -1,0 +1,391 @@
+{
+  "@context": "https://readium.org/webpub-manifest/context.jsonld",
+  "metadata": {
+    "@type": "http://schema.org/Book",
+    "title": "Deník Avatára",
+    "identifier": "urn:uuid:296c0919-9963-415a-a386-6c26c077b931",
+    "author": "Lukáš Marvan",
+    "publisher": "Městská knihovna v Praze",
+    "language": "cs-CZ",
+    "modified": "2021-10-07T00:00:00.000Z",
+    "published": "2021-10-07T07:00:03.000Z",
+    "description": "Městská knihovna v Praze",
+    "subject": "subject",
+    "generator": "Adobe InDesign 15.1.1",
+    "Sigil version": "0.9.9"
+  },
+  "readingOrder": [
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/denik_avatara_001.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/denik_avatara_002.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/denik_avatara_003.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/denik_avatara_004.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/denik_avatara_005.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/denik_avatara_006.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/denik_avatara_007.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/denik_avatara_008.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/denik_avatara_009.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/denik_avatara_010.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/denik_avatara_011.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/denik_avatara_012.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/denik_avatara_013.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/denik_avatara_014.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/denik_avatara_015.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/denik_avatara_016.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/denik_avatara_017.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/denik_avatara_018.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/denik_avatara_019.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/denik_avatara_020.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/denik_avatara_021.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/denik_avatara_022.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/denik_avatara_023.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/denik_avatara_024.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/denik_avatara_025.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/denik_avatara_026.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/denik_avatara_027.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/denik_avatara_028.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/denik_avatara_029.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/denik_avatara_030.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/denik_avatara_031.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/denik_avatara_032.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/denik_avatara_033.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/denik_avatara_034.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/denik_avatara_035.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/denik_avatara_036.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/denik_avatara_037.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/denik_avatara_038.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/denik_avatara_039.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/denik_avatara_040.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/denik_avatara_041.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/denik_avatara_042.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/denik_avatara_043.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/denik_avatara_044.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/denik_avatara_045.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/denik_avatara_046.xhtml"
+    }
+  ],
+  "resources": [
+    {
+      "type": "application/x-dtbncx+xml",
+      "href": "OEBPS/toc.ncx"
+    },
+    {
+      "type": "text/css",
+      "href": "OEBPS/Styles/idGeneratedStyles.css"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/image001.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/image002.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/OBALKA01-0004601968.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/upoutavka_eknihy.jpg"
+    }
+  ],
+  "toc": [
+    {
+      "title": "My žijící v temné části vesmíru…",
+      "href": "OEBPS/Text/denik_avatara_006.xhtml#_idParaDest-1"
+    },
+    {
+      "title": "Tím údolím…",
+      "href": "OEBPS/Text/denik_avatara_007.xhtml#_idParaDest-2"
+    },
+    {
+      "title": "Ve snu jsem měl…",
+      "href": "OEBPS/Text/denik_avatara_008.xhtml#_idParaDest-3"
+    },
+    {
+      "title": "Sedět uprostřed dopoledne…",
+      "href": "OEBPS/Text/denik_avatara_009.xhtml#_idParaDest-4"
+    },
+    {
+      "title": "Byl to sen o hromadném hrobě…",
+      "href": "OEBPS/Text/denik_avatara_010.xhtml#_idParaDest-5"
+    },
+    {
+      "title": "Nemá cenu filmovat a fotografovat…",
+      "href": "OEBPS/Text/denik_avatara_011.xhtml#_idParaDest-6"
+    },
+    {
+      "title": "Až pochopíš…",
+      "href": "OEBPS/Text/denik_avatara_012.xhtml#_idParaDest-7"
+    },
+    {
+      "title": "Ty placky na zdech…",
+      "href": "OEBPS/Text/denik_avatara_013.xhtml#_idParaDest-8"
+    },
+    {
+      "title": "Měli jsme plynové masky…",
+      "href": "OEBPS/Text/denik_avatara_014.xhtml#_idParaDest-9"
+    },
+    {
+      "title": "Svoboda je zapomenout své jméno…",
+      "href": "OEBPS/Text/denik_avatara_015.xhtml#_idParaDest-10"
+    },
+    {
+      "title": "V komparzu tohohle filmu…",
+      "href": "OEBPS/Text/denik_avatara_016.xhtml#_idParaDest-11"
+    },
+    {
+      "title": "Potkal jsem ho jako manžela…",
+      "href": "OEBPS/Text/denik_avatara_017.xhtml#_idParaDest-12"
+    },
+    {
+      "title": "V tichu",
+      "href": "OEBPS/Text/denik_avatara_018.xhtml#_idParaDest-13"
+    },
+    {
+      "title": "Všichni mají pravdu…",
+      "href": "OEBPS/Text/denik_avatara_019.xhtml#_idParaDest-14"
+    },
+    {
+      "title": "Závojem opadaných stromů…",
+      "href": "OEBPS/Text/denik_avatara_020.xhtml#_idParaDest-15"
+    },
+    {
+      "title": "Jsem dávno mrtvý…",
+      "href": "OEBPS/Text/denik_avatara_021.xhtml#_idParaDest-16"
+    },
+    {
+      "title": "Jsou mrtví…",
+      "href": "OEBPS/Text/denik_avatara_022.xhtml#_idParaDest-17"
+    },
+    {
+      "title": "Každý rok vidět stromy…",
+      "href": "OEBPS/Text/denik_avatara_023.xhtml#_idParaDest-18"
+    },
+    {
+      "title": "Ve snu jsme měli setkání…",
+      "href": "OEBPS/Text/denik_avatara_024.xhtml#_idParaDest-19"
+    },
+    {
+      "title": "Až slunce stáhne všechno světlo…",
+      "href": "OEBPS/Text/denik_avatara_025.xhtml#_idParaDest-20"
+    },
+    {
+      "title": "Zase mrzne a mně není podezřelé…",
+      "href": "OEBPS/Text/denik_avatara_026.xhtml#_idParaDest-21"
+    },
+    {
+      "title": "Kdosi řekl že má přijít vichřice…",
+      "href": "OEBPS/Text/denik_avatara_027.xhtml#_idParaDest-22"
+    },
+    {
+      "title": "Měsíc se dívá na západ slunce…",
+      "href": "OEBPS/Text/denik_avatara_028.xhtml#_idParaDest-23"
+    },
+    {
+      "title": "Byli jsme dva neviditelní…",
+      "href": "OEBPS/Text/denik_avatara_029.xhtml#_idParaDest-24"
+    },
+    {
+      "title": "V tom snu jsem chtěl uniknout…",
+      "href": "OEBPS/Text/denik_avatara_030.xhtml#_idParaDest-25"
+    },
+    {
+      "title": "Je tam stěna ticha…",
+      "href": "OEBPS/Text/denik_avatara_031.xhtml#_idParaDest-26"
+    },
+    {
+      "title": "Utíkal jsem skrz záchody…",
+      "href": "OEBPS/Text/denik_avatara_032.xhtml#_idParaDest-27"
+    },
+    {
+      "title": "Zvedl se na posteli…",
+      "href": "OEBPS/Text/denik_avatara_033.xhtml#_idParaDest-28"
+    },
+    {
+      "title": "V každém z těch bytů…",
+      "href": "OEBPS/Text/denik_avatara_034.xhtml#_idParaDest-29"
+    },
+    {
+      "title": "Měsíc jde skrz mraky…",
+      "href": "OEBPS/Text/denik_avatara_035.xhtml#_idParaDest-30"
+    },
+    {
+      "title": "Je směšné nedat se fotografovat…",
+      "href": "OEBPS/Text/denik_avatara_036.xhtml#_idParaDest-31"
+    },
+    {
+      "title": "Uvnitř je příjemné zajímavé slovo…",
+      "href": "OEBPS/Text/denik_avatara_037.xhtml#_idParaDest-32"
+    },
+    {
+      "title": "Dveře tam rostou z rámů…",
+      "href": "OEBPS/Text/denik_avatara_038.xhtml#_idParaDest-33"
+    },
+    {
+      "title": "Když se podívám na staré stromy…",
+      "href": "OEBPS/Text/denik_avatara_039.xhtml#_idParaDest-34"
+    },
+    {
+      "title": "Fotografie dvojníků…",
+      "href": "OEBPS/Text/denik_avatara_040.xhtml#_idParaDest-35"
+    },
+    {
+      "title": "Co dělají noční lidé…",
+      "href": "OEBPS/Text/denik_avatara_041.xhtml#_idParaDest-36"
+    },
+    {
+      "title": "Žluté růže na fotografii v novinách…",
+      "href": "OEBPS/Text/denik_avatara_042.xhtml#_idParaDest-37"
+    },
+    {
+      "title": "V prvním patře je ticho…",
+      "href": "OEBPS/Text/denik_avatara_043.xhtml#_idParaDest-38"
+    },
+    {
+      "title": "V tom snu jsem mluvil s Mistrem…",
+      "href": "OEBPS/Text/denik_avatara_044.xhtml#_idParaDest-39"
+    },
+    {
+      "title": "Kam to odcházíme",
+      "href": "OEBPS/Text/denik_avatara_045.xhtml#_idParaDest-40"
+    }
+  ]
+}
