@@ -1,15 +1,14 @@
 ---
+title: '* * *'
 contentType: prose
 ---
 
-\* \* \*
+_Jsem dávno mrtvý  
+ponechán sám sobě  
+není místo v tomto světě  
+které by neznalo píseň srdce  
+a my stokrát prošlí  
+ohněm strachem zapomněním  
+jsme tou písní stvořeni_
 
-> Jsem dávno mrtvý  
-> ponechán sám sobě  
-> není místo v tomto světě  
-> které by neznalo píseň srdce  
-> a my stokrát prošlí  
-> ohněm strachem zapomněním  
-> jsme tou písní stvořeni
-
-> (2009)
+_(2009)_

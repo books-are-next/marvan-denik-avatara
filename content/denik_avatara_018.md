@@ -1,14 +1,13 @@
 ---
+title: "V\_tichu"
 contentType: prose
 ---
 
-V tichu
+_Vrhnout se beze strachu  
+do hloubky věcí  
+v tichu  
+rozbít se  
+zmizet  
+před svýma nikdy nehasnoucíma očima_
 
-> Vrhnout se beze strachu  
-> do hloubky věcí  
-> v tichu  
-> rozbít se  
-> zmizet  
-> před svýma nikdy nehasnoucíma očima
-
-> (2007)
+_(2007)_
