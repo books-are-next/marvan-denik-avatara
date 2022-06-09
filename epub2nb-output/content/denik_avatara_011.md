@@ -1,13 +1,12 @@
 ---
+title: '* * *'
 contentType: prose
 ---
 
-\* \* \*
+_Nemá cenu filmovat a fotografovat  
+svět který neexistuje  
+je to matoucí  
+ale většina lidí  
+na to kouká_
 
-> Nemá cenu filmovat a fotografovat  
-> svět který neexistuje  
-> je to matoucí  
-> ale většina lidí  
-> na to kouká
-
-> (2007)
+_(2007)_
