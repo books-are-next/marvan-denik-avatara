@@ -3,6 +3,8 @@ title: '* * *'
 contentType: prose
 ---
 
+<section>
+
 _Sedět uprostřed dopoledne  
 hluboko v domě  
 dívat se vzhůru  
@@ -17,4 +19,10 @@ ve vzpomínkách a plánech
 stejně skutečných jako stvoření tohoto světa  
 v jediném živém místě_
 
+</section>
+
+<section>
+
 _(2006)_
+
+</section>

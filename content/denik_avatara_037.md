@@ -3,6 +3,8 @@ title: '* * *'
 contentType: prose
 ---
 
+<section>
+
 _Uvnitř je příjemné zajímavé slovo  
 drobné a obyčejné kameny  
 zamíchané do vody  
@@ -14,4 +16,10 @@ v létě nad horami visí kopce
 ráno zářící šedivé vousy  
 všechno je všech_
 
+</section>
+
+<section>
+
 _(2005)_
+
+</section>

@@ -3,6 +3,8 @@ title: '* * *'
 contentType: prose
 ---
 
+<section>
+
 _Měli jsme plynové masky  
 pláštěnky na rukou i nohou  
 procházeli jsme dlouho  
@@ -25,4 +27,10 @@ někteří z nás je nemohli najít
 a tak za ně pokládali celý tento svět  
 pak se tomu smáli_
 
+</section>
+
+<section>
+
 _(2007)_
+
+</section>

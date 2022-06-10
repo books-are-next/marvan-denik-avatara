@@ -3,6 +3,8 @@ title: '* * *'
 contentType: prose
 ---
 
+<section>
+
 _Zvedl se na posteli  
 a díval se jak tmou  
 přicházejí zprávy  
@@ -15,4 +17,10 @@ Jsi ten kterého si z celého srdce přeji neopustit
 i kdybych zemřel  
 řekl jeden z nich_
 
+</section>
+
+<section>
+
 _(2004)_
+
+</section>

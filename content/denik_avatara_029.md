@@ -3,6 +3,8 @@ title: '* * *'
 contentType: prose
 ---
 
+<section>
+
 _Byli jsme dva neviditelní  
 a měli moc pohybovat se prostorem  
 v tom místě které vypadalo jako starý dům  
@@ -14,4 +16,10 @@ každá věc se v tu chvíli snažila stát bytostí rovnou člověku
 můj poslední pohled patřil smetišti  
 na kterém se zvedala jakási postava_
 
+</section>
+
+<section>
+
 _(2004)_
+
+</section>

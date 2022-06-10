@@ -3,6 +3,8 @@ title: '* * *'
 contentType: prose
 ---
 
+<section>
+
 _Byl to sen o hromadném hrobě  
 mrtví příbuzní  
 byli naskládáni v kamenné vaně  
@@ -21,4 +23,10 @@ jak hnijí
 nepodíval jsem se  
 ale ten živý mohl ven_
 
+</section>
+
+<section>
+
 _(2007)_
+
+</section>

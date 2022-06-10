@@ -3,6 +3,8 @@ title: '* * *'
 contentType: prose
 ---
 
+<section>
+
 _Všichni mají pravdu  
 a nejsou si jisti  
 a pravdu neznají  
@@ -11,4 +13,10 @@ i když ji nikdo nevidí
 máte ji  
 to je zoufalé a bolí to_
 
+</section>
+
+<section>
+
 _(2007)_
+
+</section>

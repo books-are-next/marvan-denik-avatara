@@ -3,6 +3,8 @@ title: '* * *'
 contentType: prose
 ---
 
+<section>
+
 _My žijící v temné části vesmíru  
 nemůžeme snést tak dlouho trvající světlo  
 proto se znovu a znovu  
@@ -19,4 +21,10 @@ aby nám bylo lépe
 i když jsme svobodni  
 a šťastni_
 
+</section>
+
+<section>
+
 _(2009)_
+
+</section>

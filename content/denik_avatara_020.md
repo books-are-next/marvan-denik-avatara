@@ -3,6 +3,8 @@ title: '* * *'
 contentType: prose
 ---
 
+<section>
+
 _Závojem opadaných stromů  
 projíždí trolejbus  
 ptáci se zvedají  
@@ -15,4 +17,10 @@ pro toho kdo si myslí že tu opravdu je
 za trolejí se táhnou jiskry  
 jako ve skleněných trubicích_
 
+</section>
+
+<section>
+
 _(2007)_
+
+</section>

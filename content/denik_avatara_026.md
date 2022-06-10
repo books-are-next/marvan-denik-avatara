@@ -3,6 +3,8 @@ title: '* * *'
 contentType: prose
 ---
 
+<section>
+
 _Zase mrzne a mně není podezřelé  
 to střídání ročních období  
 jak se tomu tady říká  
@@ -14,4 +16,10 @@ a vždycky budeš mít domov
 v dálce stojí rodný bratr  
 vypadá jako oni_
 
+</section>
+
+<section>
+
 _(2004)_
+
+</section>

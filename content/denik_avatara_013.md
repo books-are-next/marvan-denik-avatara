@@ -3,6 +3,8 @@ title: '* * *'
 contentType: prose
 ---
 
+<section>
+
 _Ty placky na zdech  
 jsou obrazy  
 a ta protáhlá krabice  
@@ -19,4 +21,10 @@ ve kterém sedím jako v kombíku
 nikde nikde není prázdno  
 a přitom všude_
 
+</section>
+
+<section>
+
 _(2007)_
+
+</section>
