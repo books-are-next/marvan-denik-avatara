@@ -3,6 +3,8 @@ title: '* * *'
 contentType: prose
 ---
 
+<section>
+
 _Kdosi řekl že má přijít vichřice  
 napadlo mě že ji ve tmě stejně nikdo neuvidí  
 scházeli jsme se v rozsvícené kuchyni  
@@ -17,4 +19,10 @@ bylo ráno
 venku nic  
 protože se nikdo nedíval_
 
+</section>
+
+<section>
+
 _(2004)_
+
+</section>

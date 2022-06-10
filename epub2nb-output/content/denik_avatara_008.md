@@ -3,6 +3,8 @@ title: '* * *'
 contentType: prose
 ---
 
+<section>
+
 _Ve snu jsem měl  
 domluvený sraz s mrtvým kamarádem  
 někde v jižních Čechách  
@@ -16,4 +18,10 @@ začal jsem se spolucestujících vyptávat
 jestli se jim to také zdá  
 tvářili se uraženě_
 
+</section>
+
+<section>
+
 _(2009)_
+
+</section>

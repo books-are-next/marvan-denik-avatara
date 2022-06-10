@@ -3,6 +3,8 @@ title: '* * *'
 contentType: prose
 ---
 
+<section>
+
 _Až pochopíš  
 a začneš se smát  
 nesměj se  
@@ -12,4 +14,10 @@ příliš rychle
 a dlouho zůstal stát  
 v úplné slepotě_
 
+</section>
+
+<section>
+
 _(2007)_
+
+</section>

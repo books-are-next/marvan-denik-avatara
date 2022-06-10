@@ -3,6 +3,8 @@ title: '* * *'
 contentType: prose
 ---
 
+<section>
+
 _V komparzu tohohle filmu  
 jsem kdysi hrál  
 jdu se podívat  
@@ -21,4 +23,10 @@ ukazuju staré fotky
 poznávají se na nich  
 a věří mi_
 
+</section>
+
+<section>
+
 _(2007)_
+
+</section>

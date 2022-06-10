@@ -3,6 +3,8 @@ title: '* * *'
 contentType: prose
 ---
 
+<section>
+
 _Potkal jsem ho jako manžela  
 kamarádky mé přítelkyně  
 stvořil tento svět  
@@ -18,4 +20,10 @@ doteku
 staří lidé se tváří ublíženě nebo provinile  
 ostatní nemají ani to_
 
+</section>
+
+<section>
+
 _(2007)_
+
+</section>

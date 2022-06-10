@@ -3,6 +3,8 @@ title: '* * *'
 contentType: prose
 ---
 
+<section>
+
 _V tom snu jsem mluvil s Mistrem  
 jen myšlenkami  
 kamínky a rozbitý asfalt  
@@ -21,4 +23,10 @@ zněla pěkná hudba
 někdo zpíval  
 dost podrobně o Barmě_
 
+</section>
+
+<section>
+
 _(2005)_
+
+</section>

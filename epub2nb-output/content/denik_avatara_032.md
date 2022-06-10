@@ -3,6 +3,8 @@ title: '* * *'
 contentType: prose
 ---
 
+<section>
+
 _Utíkal jsem skrz záchody  
 za dveřmi další a další  
 špinavé kachlíky  
@@ -19,4 +21,10 @@ otevřely se dveře
 lidé začali jásat  
 svoboda konečně svoboda_
 
+</section>
+
+<section>
+
 _(2004)_
+
+</section>

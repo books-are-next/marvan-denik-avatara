@@ -3,6 +3,8 @@ title: '* * *'
 contentType: prose
 ---
 
+<section>
+
 _Jsou mrtví  
 jsou mrtví jako sníh nebo dech  
 jako zářivý půlměsíc  
@@ -17,4 +19,10 @@ jsou mrtví
 kdesi na cestě kterou si už nepamatují  
 jsou mrtví a zvolna to poznávají_
 
+</section>
+
+<section>
+
 _(2009)_
+
+</section>

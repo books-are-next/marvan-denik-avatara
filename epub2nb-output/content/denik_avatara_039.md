@@ -3,6 +3,8 @@ title: '* * *'
 contentType: prose
 ---
 
+<section>
+
 _Když se podívám na staré stromy  
 v téhle a další ulici  
 vzpomenu si na pohled do zrcadla  
@@ -18,4 +20,10 @@ dítě žena a starý muž
 ve snu v zrcadle  
 přijímám s vděčností v srdci_
 
+</section>
+
+<section>
+
 _(2004)_
+
+</section>

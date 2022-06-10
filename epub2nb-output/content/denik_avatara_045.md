@@ -3,6 +3,8 @@ title: Kam to odcházíme
 contentType: prose
 ---
 
+<section>
+
 _Kam to odcházíme  
 do jakých tajemných světů  
 abychom přišli zpět  
@@ -15,4 +17,10 @@ a o nás
 kteří jsme sami věčným mírem  
 až k pláči_
 
+</section>
+
+<section>
+
 _(2010)_
+
+</section>

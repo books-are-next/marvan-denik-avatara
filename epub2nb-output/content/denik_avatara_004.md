@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 Znění tohoto textu vychází z díla [Deník Avatára](https://search.mlp.cz/cz/titul/denik-avatara/3455256/#/getPodobneTituly=deskriptory-eq:2773728-amp:key-eq:3455256) tak, jak bylo vydáno nakladatelstvím Druhé město v Brně v roce 2010. Pro potřeby vydání Městské knihovny v Praze byl text redakčně zpracován.
 
 **§**
@@ -15,4 +17,10 @@ Vydání (obálka, upoutávka, citační stránka a grafická úprava), jehož a
 
 Verze 1.0 z 8. 10. 2021.
 
+</section>
+
+<section>
+
 ![](../Images/image002.jpg)
+
+</section>

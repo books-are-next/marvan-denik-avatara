@@ -3,6 +3,8 @@ title: '* * *'
 contentType: prose
 ---
 
+<section>
+
 _V tom snu jsem chtěl uniknout  
 surovému bičování  
 v zajateckém táboře  
@@ -16,4 +18,10 @@ přelezl jsem drátěný plot
 pak druhý a třetí  
 teprve potom jsem se probudil_
 
+</section>
+
+<section>
+
 _(2004)_
+
+</section>

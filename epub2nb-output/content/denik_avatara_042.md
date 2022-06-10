@@ -3,6 +3,8 @@ title: '* * *'
 contentType: prose
 ---
 
+<section>
+
 _Žluté růže na fotografii v novinách  
 trocha kapradí  
 dráty na nebi  
@@ -17,4 +19,10 @@ dovnitř a ven
 každý člověk by měl žasnout sám nad sebou  
 dokud je to potřeba_
 
+</section>
+
+<section>
+
 _(2004)_
+
+</section>

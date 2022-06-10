@@ -3,6 +3,8 @@ title: '* * *'
 contentType: prose
 ---
 
+<section>
+
 _Každý rok vidět stromy  
 vstávat z mrtvých  
 jako umírat  
@@ -15,4 +17,10 @@ každý rok vidět stromy
 umírat jako vstávat z mrtvých  
 každou vteřinu_
 
+</section>
+
+<section>
+
 _(2008)_
+
+</section>
