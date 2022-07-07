@@ -1,0 +1,109 @@
+{
+  "preview": {
+    "isPreview": false
+  },
+  "title": "Deník Avatára",
+  "author": "Lukáš Marvan",
+  "publisher": "Městská knihovna v Praze",
+  "edition": "poezie",
+  "languageCode": "cs",
+  "root": "main",
+  "identifier": "marvan-denik-avatara-08ddbe1",
+  "revision": "08ddbe1",
+  "readingOrder": [
+    "promo.html",
+    "denik_avatara_005.html",
+    "denik_avatara_006.html",
+    "about.html"
+  ],
+  "generatedAt": {
+    "date": "Thu Jul 07 2022 09:27:30 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1657186050944
+  },
+  "documents": [
+    {
+      "title": "Městská knihovna v Praze",
+      "file": "promo.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 0,
+      "prev": null,
+      "next": "denik_avatara_005.html",
+      "toc": []
+    },
+    {
+      "title": "Deník Avatára",
+      "file": "denik_avatara_005.html",
+      "words": 9,
+      "chars": 54,
+      "ideas": 2,
+      "role": "chapter",
+      "order": 1,
+      "prev": "promo.html",
+      "next": "denik_avatara_006.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "* * *",
+      "file": "denik_avatara_006.html",
+      "words": 1938,
+      "chars": 10164,
+      "ideas": 491,
+      "role": "chapter",
+      "order": 2,
+      "prev": "denik_avatara_005.html",
+      "next": "about.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "* * *",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Tiráž",
+      "file": "about.html",
+      "words": 133,
+      "chars": 858,
+      "ideas": 16,
+      "role": "about",
+      "order": null,
+      "prev": "denik_avatara_006.html",
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Tiráž",
+          "id": null,
+          "children": []
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "all": {
+      "words": 2086,
+      "chars": 11110,
+      "ideas": 513
+    },
+    "chapters": {
+      "words": 1947,
+      "chars": 10218,
+      "ideas": 493
+    }
+  }
+}
