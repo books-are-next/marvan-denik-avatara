@@ -17,7 +17,7 @@ readingOrder:
   - promo.html
   - denik_avatara_005.html
   - denik_avatara_006.html
-  - colophon.html
+  - about.html
 tocBase:
   - id: section-1
     children:
