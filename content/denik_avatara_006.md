@@ -5,7 +5,7 @@ contentType: poetry
 
 <section>
 
-_My žijící v temné části vesmíru  
+My žijící v temné části vesmíru  
 nemůžeme snést tak dlouho trvající světlo  
 proto se znovu a znovu  
 rodíme  
@@ -19,20 +19,20 @@ nemůžeme snést nic
 krom vlastního přání  
 aby nám bylo lépe  
 i když jsme svobodni  
-a šťastni_
+a šťastni
 
 </section>
 
 <section>
 
-_(2009)_
+(2009)
 
 </section>
 
 
 <section>
 
-_Tím údolím  
+Tím údolím  
 tekla prudká studená řeka  
 v táboře nám říkali  
 že do ní nikdy nemáme vstupovat  
@@ -43,19 +43,19 @@ být přechod
 … z řeky a lesa za ní  
 stoupal chlad jako mlha  
 vstoupil jsem do vody  
-díky_
+díky
 
 </section>
 
 <section>
 
-_(2009)_
+(2009)
 
 </section>
 
 <section>
 
-_Ve snu jsem měl  
+Ve snu jsem měl  
 domluvený sraz s mrtvým kamarádem  
 někde v jižních Čechách  
 dalo práci si v pokladně vymoci jízdenku  
@@ -66,19 +66,19 @@ uvnitř jsme dlouho čekali
 jak dlouho budu muset ještě spát  
 začal jsem se spolucestujících vyptávat  
 jestli se jim to také zdá  
-tvářili se uraženě_
+tvářili se uraženě
 
 </section>
 
 <section>
 
-_(2009)_
+(2009)
 
 </section>
 
 <section>
 
-_Sedět uprostřed dopoledne  
+Sedět uprostřed dopoledne  
 hluboko v domě  
 dívat se vzhůru  
 a nic nevidět  
@@ -90,19 +90,19 @@ kde nezbývá než umřít
 ve zvucích ptáků a puštěného rádia  
 ve vzpomínkách a plánech  
 stejně skutečných jako stvoření tohoto světa  
-v jediném živém místě_
+v jediném živém místě
 
 </section>
 
 <section>
 
-_(2006)_
+(2006)
 
 </section>
 
 <section>
 
-_Byl to sen o hromadném hrobě  
+Byl to sen o hromadném hrobě  
 mrtví příbuzní  
 byli naskládáni v kamenné vaně  
 a všechno to bylo nehluboko  
@@ -118,54 +118,54 @@ dokonce těla odkryli
 abych se na mrtvé podíval  
 jak hnijí  
 nepodíval jsem se  
-ale ten živý mohl ven_
+ale ten živý mohl ven
 
 </section>
 
 <section>
 
-_(2007)_
+(2007)
 
 </section>
 
 <section>
 
-_Nemá cenu filmovat a fotografovat  
+Nemá cenu filmovat a fotografovat  
 svět který neexistuje  
 je to matoucí  
 ale většina lidí  
-na to kouká_
+na to kouká
 
 </section>
 
 <section>
 
-_(2007)_
+(2007)
 
 </section>
 
 <section>
 
-_Až pochopíš  
+Až pochopíš  
 a začneš se smát  
 nesměj se  
 (a jsou to téměř všichni kdo je směšný)  
 … dozvěděl by ses všechno  
 příliš rychle  
 a dlouho zůstal stát  
-v úplné slepotě_
+v úplné slepotě
 
 </section>
 
 <section>
 
-_(2007)_
+(2007)
 
 </section>
 
 <section>
 
-_Ty placky na zdech  
+Ty placky na zdech  
 jsou obrazy  
 a ta protáhlá krabice  
 hodiny  
@@ -179,19 +179,19 @@ pohybují se hodně
 okolo toho těla  
 ve kterém sedím jako v kombíku  
 nikde nikde není prázdno  
-a přitom všude_
+a přitom všude
 
 </section>
 
 <section>
 
-_(2007)_
+(2007)
 
 </section>
 
 <section>
 
-_Měli jsme plynové masky  
+Měli jsme plynové masky  
 pláštěnky na rukou i nohou  
 procházeli jsme dlouho  
 krajinou kde svítilo  
@@ -211,36 +211,36 @@ vrátil ke svému mrtvému tělu
 které jsme zahlédli po cestě  
 někteří z nás je nemohli najít  
 a tak za ně pokládali celý tento svět  
-pak se tomu smáli_
+pak se tomu smáli
 
 </section>
 
 <section>
 
-_(2007)_
+(2007)
 
 </section>
 
 <section>
 
-_Svoboda je zapomenout své jméno  
+Svoboda je zapomenout své jméno  
 všechno je jen způsob  
 až se větvička túje na naší zahradě  
 dotkne vrcholku borovice  
 na protějším kopci  
-nestane se vůbec nic_
+nestane se vůbec nic
 
 </section>
 
 <section>
 
-_(2009)_
+(2009)
 
 </section>
 
 <section>
 
-_V komparzu tohohle filmu  
+V komparzu tohohle filmu  
 jsem kdysi hrál  
 jdu se podívat  
 a v salonku vzadu  
@@ -256,19 +256,19 @@ jednu hru
 hrajeme a já jim  
 ukazuju staré fotky  
 poznávají se na nich  
-a věří mi_
+a věří mi
 
 </section>
 
 <section>
 
-_(2007)_
+(2007)
 
 </section>
 
 <section>
 
-_Potkal jsem ho jako manžela  
+Potkal jsem ho jako manžela  
 kamarádky mé přítelkyně  
 stvořil tento svět  
 na cestě kamsi na Moravu ještě s kamarádem  
@@ -281,54 +281,54 @@ věčné léto v průjezdech
 mizí při každém  
 doteku  
 staří lidé se tváří ublíženě nebo provinile  
-ostatní nemají ani to_
+ostatní nemají ani to
 
 </section>
 
 <section>
 
-_(2007)_
+(2007)
 
 </section>
 
 <section>
 
-_Vrhnout se beze strachu  
+Vrhnout se beze strachu  
 do hloubky věcí  
 v tichu  
 rozbít se  
 zmizet  
-před svýma nikdy nehasnoucíma očima_
+před svýma nikdy nehasnoucíma očima
 
 </section>
 
 <section>
 
-_(2007)_
+(2007)
 
 </section>
 
 <section>
 
-_Všichni mají pravdu  
+Všichni mají pravdu  
 a nejsou si jisti  
 a pravdu neznají  
 žijete a mluvíte jen pravdu  
 i když ji nikdo nevidí  
 máte ji  
-to je zoufalé a bolí to_
+to je zoufalé a bolí to
 
 </section>
 
 <section>
 
-_(2007)_
+(2007)
 
 </section>
 
 <section>
 
-_Závojem opadaných stromů  
+Závojem opadaných stromů  
 projíždí trolejbus  
 ptáci se zvedají  
 ke spodním holým větvím  
@@ -338,37 +338,37 @@ přítomnost v tomhle světě
 je hrůzná  
 pro toho kdo si myslí že tu opravdu je  
 za trolejí se táhnou jiskry  
-jako ve skleněných trubicích_
+jako ve skleněných trubicích
 
 </section>
 
 <section>
 
-_(2007)_
+(2007)
 
 </section>
 
 <section>
 
-_Jsem dávno mrtvý  
+Jsem dávno mrtvý  
 ponechán sám sobě  
 není místo v tomto světě  
 které by neznalo píseň srdce  
 a my stokrát prošlí  
 ohněm strachem zapomněním  
-jsme tou písní stvořeni_
+jsme tou písní stvořeni
 
 </section>
 
 <section>
 
-_(2009)_
+(2009)
 
 </section>
 
 <section>
 
-_Jsou mrtví  
+Jsou mrtví  
 jsou mrtví jako sníh nebo dech  
 jako zářivý půlměsíc  
 a jejich těla se vznášejí nad krajinou  
@@ -380,19 +380,19 @@ ve větru hýbou korunami
 jako nedočkaví lidé  
 jsou mrtví  
 kdesi na cestě kterou si už nepamatují  
-jsou mrtví a zvolna to poznávají_
+jsou mrtví a zvolna to poznávají
 
 </section>
 
 <section>
 
-_(2009)_
+(2009)
 
 </section>
 
 <section>
 
-_Každý rok vidět stromy  
+Každý rok vidět stromy  
 vstávat z mrtvých  
 jako umírat  
 čelo tváře ústa oči nos  
@@ -402,19 +402,19 @@ jen tečka do níž se nikdy nikdo
 netrefí  
 každý rok vidět stromy  
 umírat jako vstávat z mrtvých  
-každou vteřinu_
+každou vteřinu
 
 </section>
 
 <section>
 
-_(2008)_
+(2008)
 
 </section>
 
 <section>
 
-_Ve snu jsme měli setkání  
+Ve snu jsme měli setkání  
 hluboko pod vodou  
 díval jsem se vzhůru na hladinu  
 a kdosi řekl že jsem mrtvý  
@@ -425,19 +425,19 @@ kolem byla shnilá
 avšak… nebyla to pravda  
 a já se usmíval tím vodním čímkoli  
 a ten co to řekl zmrzl na kus ledu  
-a potom shořel_
+a potom shořel
 
 </section>
 
 <section>
 
-_(2009)_
+(2009)
 
 </section>
 
 <section>
 
-_Až slunce stáhne všechno světlo  
+Až slunce stáhne všechno světlo  
 do tenkého proužku  
 na obrysu hor  
 až se měsíc doběla rozžhaví  
@@ -449,19 +449,19 @@ podrží pohromadě svět
 a svět ten nekonečně lhostejný a tichý  
 ztratí i tvar s rukou co jej drží  
 hrůza zmizí  
-budeme nekonečně volní_
+budeme nekonečně volní
 
 </section>
 
 <section>
 
-_(2005)_
+(2005)
 
 </section>
 
 <section>
 
-_Zase mrzne a mně není podezřelé  
+Zase mrzne a mně není podezřelé  
 to střídání ročních období  
 jak se tomu tady říká  
 v tunelu se nedá spát  
@@ -470,19 +470,19 @@ démonem jitřního světa
 máš tu  
 a vždycky budeš mít domov  
 v dálce stojí rodný bratr  
-vypadá jako oni_
+vypadá jako oni
 
 </section>
 
 <section>
 
-_(2004)_
+(2004)
 
 </section>
 
 <section>
 
-_Kdosi řekl že má přijít vichřice  
+Kdosi řekl že má přijít vichřice  
 napadlo mě že ji ve tmě stejně nikdo neuvidí  
 scházeli jsme se v rozsvícené kuchyni  
 a neviděnou krajinu  
@@ -494,37 +494,37 @@ rozhodli jsme se vyložit si karty
 když jsme skončili  
 bylo ráno  
 venku nic  
-protože se nikdo nedíval_
+protože se nikdo nedíval
 
 </section>
 
 <section>
 
-_(2004)_
+(2004)
 
 </section>
 
 <section>
 
-_Měsíc se dívá na západ slunce  
+Měsíc se dívá na západ slunce  
 a slunce vidí blednout měsíc přes černé pole ve Velkých  
 Popovicích  
 pod nimi stojí ten kdo to vidí  
 ráno a večer vždycky někdo někde  
 musí být  
-jinak nic není_
+jinak nic není
 
 </section>
 
 <section>
 
-_(2004)_
+(2004)
 
 </section>
 
 <section>
 
-_Byli jsme dva neviditelní  
+Byli jsme dva neviditelní  
 a měli moc pohybovat se prostorem  
 v tom místě které vypadalo jako starý dům  
 jsme narazili na bytosti  
@@ -533,19 +533,19 @@ museli jsme několikrát zabít je
 zabili jsme tím i sebe  
 každá věc se v tu chvíli snažila stát bytostí rovnou člověku  
 můj poslední pohled patřil smetišti  
-na kterém se zvedala jakási postava_
+na kterém se zvedala jakási postava
 
 </section>
 
 <section>
 
-_(2004)_
+(2004)
 
 </section>
 
 <section>
 
-_V tom snu jsem chtěl uniknout  
+V tom snu jsem chtěl uniknout  
 surovému bičování  
 v zajateckém táboře  
 jakýchsi Číňanů  
@@ -556,19 +556,19 @@ a poléval se vodou abych se probudil
 nešlo to voda byla suchá  
 přelezl jsem drátěný plot  
 pak druhý a třetí  
-teprve potom jsem se probudil_
+teprve potom jsem se probudil
 
 </section>
 
 <section>
 
-_(2004)_
+(2004)
 
 </section>
 
 <section>
 
-_Je tam stěna ticha a pak chrám  
+Je tam stěna ticha a pak chrám  
 řekl ten člověk když jsem chtěl jít domů  
 vida chvíli jsem tu nebyl…  
 na stěně seděly mouchy  
@@ -576,19 +576,19 @@ na schodech velcí černí psi
 bezbranní proti mně  
 vida tady jsem bydlel  
 jak je všechno mazlavé  
-beze mě se život nikde neudrží_
+beze mě se život nikde neudrží
 
 </section>
 
 <section>
 
-_(2004)_
+(2004)
 
 </section>
 
 <section>
 
-_Utíkal jsem skrz záchody  
+Utíkal jsem skrz záchody  
 za dveřmi další a další  
 špinavé kachlíky  
 bytosti které mě pronásledovaly  
@@ -602,19 +602,19 @@ dva chlapíci
 začali mi gratulovat  
 otevřely se dveře  
 lidé začali jásat  
-svoboda konečně svoboda_
+svoboda konečně svoboda
 
 </section>
 
 <section>
 
-_(2004)_
+(2004)
 
 </section>
 
 <section>
 
-_Zvedl se na posteli  
+Zvedl se na posteli  
 a díval se jak tmou  
 přicházejí zprávy  
 bledě zelená světla  
@@ -624,73 +624,73 @@ a tam na břehu jakési tmavé vody
 seděli tři lidé  
 Jsi ten kterého si z celého srdce přeji neopustit  
 i kdybych zemřel  
-řekl jeden z nich_
+řekl jeden z nich
 
 </section>
 
 <section>
 
-_(2004)_
+(2004)
 
 </section>
 
 <section>
 
-_V každém z těch bytů  
+V každém z těch bytů  
 které byly moje  
 už bydlel někdo mrtvý  
 strýc Josef  
 kamarád Dušan…  
 nemohl jsem je vyhnat  
 a ani nechtěl  
-kam by šli_
+kam by šli
 
 </section>
 
 <section>
 
-_(2004)_
+(2004)
 
 </section>
 
 <section>
 
-_Měsíc jde skrz mraky  
+Měsíc jde skrz mraky  
 růžová záře nad obzorem s fleky  
 mezi tím větve a sníh  
 oči jsou na hlavě posazeny tak nešikovně  
-že se to nedá vidět najednou_
+že se to nedá vidět najednou
 
 </section>
 
 <section>
 
-_(2004)_
+(2004)
 
 </section>
 
 <section>
 
-_Je směšné nedat se fotografovat  
+Je směšné nedat se fotografovat  
 když na fotografii  
 si nikdy nikdo  
 není podobný  
 lidé ani nevědí  
 čemu všemu rozumějí  
 a jak často jednají správně  
-proto tak často jednají špatně_
+proto tak často jednají špatně
 
 </section>
 
 <section>
 
-_(2005)_
+(2005)
 
 </section>
 
 <section>
 
-_Uvnitř je příjemné zajímavé slovo  
+Uvnitř je příjemné zajímavé slovo  
 drobné a obyčejné kameny  
 zamíchané do vody  
 uvnitř se pomalu míchá syčí  
@@ -699,35 +699,35 @@ pomáhá slunce pomáhá tma
 mrazík okolo slunce  
 v létě nad horami visí kopce  
 ráno zářící šedivé vousy  
-všechno je všech_
+všechno je všech
 
 </section>
 
 <section>
 
-_(2005)_
+(2005)
 
 </section>
 
 <section>
 
-_Dveře tam rostou z rámů  
+Dveře tam rostou z rámů  
 a zase sesychají zpět  
 déšť chodí po zemi  
 ženy jsou přístupny andělům  
-a lidé nejsou zapomenuti_
+a lidé nejsou zapomenuti
 
 </section>
 
 <section>
 
-_(2005)_
+(2005)
 
 </section>
 
 <section>
 
-_Když se podívám na staré stromy  
+Když se podívám na staré stromy  
 v téhle a další ulici  
 vzpomenu si na pohled do zrcadla  
 uplynulé a předchozí noci  
@@ -740,19 +740,19 @@ na obličej toho člověka
 a všechno co se děje  
 dítě žena a starý muž  
 ve snu v zrcadle  
-přijímám s vděčností v srdci_
+přijímám s vděčností v srdci
 
 </section>
 
 <section>
 
-_(2004)_
+(2004)
 
 </section>
 
 <section>
 
-_Fotografie dvojníků  
+Fotografie dvojníků  
 vystupují ze zdi  
 pláč před domem  
 za dveřmi dětský hlas  
@@ -761,19 +761,19 @@ ti které znáš
 jsou přítomni v celém městě  
 hora Říp v měsíčním světle  
 se drží země  
-nikdo z nás nejste vy_
+nikdo z nás nejste vy
 
 </section>
 
 <section>
 
-_(2004)_
+(2004)
 
 </section>
 
 <section>
 
-_Co dělají noční lidé  
+Co dělají noční lidé  
 a denní lidé  
 kam nesou svá tichá těla  
 co dělají zelené skvrny na moři  
@@ -788,19 +788,19 @@ co dělají noční lidé
 a denní lidé  
 ti co nevědí  
 kdo a kde jsou  
-kam nesou svá tichá těla_
+kam nesou svá tichá těla
 
 </section>
 
 <section>
 
-_(2004)_
+(2004)
 
 </section>
 
 <section>
 
-_Žluté růže na fotografii v novinách  
+Žluté růže na fotografii v novinách  
 trocha kapradí  
 dráty na nebi  
 kdo se moc směje?  
@@ -812,19 +812,19 @@ usmívám se
 staří a mladí jdou dovnitř  
 dovnitř a ven  
 každý člověk by měl žasnout sám nad sebou  
-dokud je to potřeba_
+dokud je to potřeba
 
 </section>
 
 <section>
 
-_(2004)_
+(2004)
 
 </section>
 
 <section>
 
-_V prvním patře je ticho  
+V prvním patře je ticho  
 když se vstoupí do vzduchu  
 po čarách světla od ležícího slunce  
 dvě veliké modré díry  
@@ -834,19 +834,19 @@ kámen se vzduchem
 už letí  
 dívám se dolů na nohy  
 slyším že někdo někde je  
-vidím jak se pohybují_
+vidím jak se pohybují
 
 </section>
 
 <section>
 
-_(2004)_
+(2004)
 
 </section>
 
 <section>
 
-_V tom snu jsem mluvil s Mistrem  
+V tom snu jsem mluvil s Mistrem  
 jen myšlenkami  
 kamínky a rozbitý asfalt  
 ležel jsem na ulici  
@@ -862,19 +862,19 @@ tohle je špatné místo
 a tlačil kolo pryč  
 zněla pěkná hudba  
 někdo zpíval  
-dost podrobně o Barmě_
+dost podrobně o Barmě
 
 </section>
 
 <section>
 
-_(2005)_
+(2005)
 
 </section>
 
 <section>
 
-_Kam to odcházíme  
+Kam to odcházíme  
 do jakých tajemných světů  
 abychom přišli zpět  
 proč tolik umíráme  
@@ -884,12 +884,12 @@ kde hoří a hoří sen
 o tomto světě  
 a o nás  
 kteří jsme sami věčným mírem  
-až k pláči_
+až k pláči
 
 </section>
 
 <section>
 
-_(2010)_
+(2010)
 
 </section>
