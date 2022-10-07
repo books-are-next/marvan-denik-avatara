@@ -8,8 +8,8 @@
   "edition": "poezie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "marvan-denik-avatara-ee00008",
-  "revision": "ee00008",
+  "identifier": "marvan-denik-avatara-35d88ae",
+  "revision": "35d88ae",
   "readingOrder": [
     "promo.html",
     "denik_avatara_005.html",
@@ -17,8 +17,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Tue Oct 04 2022 22:59:04 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1664924344194
+    "date": "Fri Oct 07 2022 14:10:15 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1665151815841
   },
   "documents": [
     {
