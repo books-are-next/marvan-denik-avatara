@@ -8,17 +8,56 @@
   "edition": "poezie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "marvan-denik-avatara-a76fdfa",
-  "revision": "a76fdfa",
+  "identifier": "marvan-denik-avatara-381b5b4",
+  "revision": "381b5b4",
   "readingOrder": [
     "promo.html",
     "denik_avatara_005.html",
     "denik_avatara_006.html",
+    "denik_avatara_007.html",
+    "denik_avatara_008.html",
+    "denik_avatara_009.html",
+    "denik_avatara_010.html",
+    "denik_avatara_011.html",
+    "denik_avatara_012.html",
+    "denik_avatara_013.html",
+    "denik_avatara_014.html",
+    "denik_avatara_015.html",
+    "denik_avatara_016.html",
+    "denik_avatara_017.html",
+    "denik_avatara_018.html",
+    "denik_avatara_019.html",
+    "denik_avatara_020.html",
+    "denik_avatara_021.html",
+    "denik_avatara_022.html",
+    "denik_avatara_023.html",
+    "denik_avatara_024.html",
+    "denik_avatara_025.html",
+    "denik_avatara_026.html",
+    "denik_avatara_027.html",
+    "denik_avatara_028.html",
+    "denik_avatara_029.html",
+    "denik_avatara_030.html",
+    "denik_avatara_031.html",
+    "denik_avatara_032.html",
+    "denik_avatara_033.html",
+    "denik_avatara_034.html",
+    "denik_avatara_035.html",
+    "denik_avatara_036.html",
+    "denik_avatara_037.html",
+    "denik_avatara_038.html",
+    "denik_avatara_039.html",
+    "denik_avatara_040.html",
+    "denik_avatara_041.html",
+    "denik_avatara_042.html",
+    "denik_avatara_043.html",
+    "denik_avatara_044.html",
+    "denik_avatara_045.html",
     "about.html"
   ],
   "generatedAt": {
-    "date": "Tue Oct 11 2022 09:02:57 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1665478977636
+    "date": "Tue Oct 11 2022 09:11:10 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1665479470812
   },
   "documents": [
     {
@@ -56,18 +95,798 @@
     {
       "title": "* * *",
       "file": "denik_avatara_006.html",
-      "words": 1938,
-      "chars": 10164,
-      "ideas": 491,
+      "words": 62,
+      "chars": 319,
+      "ideas": 17,
       "role": "chapter",
       "order": 2,
       "prev": "denik_avatara_005.html",
-      "next": "about.html",
+      "next": "denik_avatara_007.html",
       "toc": [
         {
           "index": 0,
           "level": 1,
           "name": "* * *",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "* * *",
+      "file": "denik_avatara_007.html",
+      "words": 52,
+      "chars": 243,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 3,
+      "prev": "denik_avatara_006.html",
+      "next": "denik_avatara_008.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "* * *",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "* * *",
+      "file": "denik_avatara_008.html",
+      "words": 62,
+      "chars": 322,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 4,
+      "prev": "denik_avatara_007.html",
+      "next": "denik_avatara_009.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "* * *",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "* * *",
+      "file": "denik_avatara_009.html",
+      "words": 55,
+      "chars": 299,
+      "ideas": 15,
+      "role": "chapter",
+      "order": 5,
+      "prev": "denik_avatara_008.html",
+      "next": "denik_avatara_010.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "* * *",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "* * *",
+      "file": "denik_avatara_010.html",
+      "words": 76,
+      "chars": 376,
+      "ideas": 19,
+      "role": "chapter",
+      "order": 6,
+      "prev": "denik_avatara_009.html",
+      "next": "denik_avatara_011.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "* * *",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "* * *",
+      "file": "denik_avatara_011.html",
+      "words": 21,
+      "chars": 105,
+      "ideas": 7,
+      "role": "chapter",
+      "order": 7,
+      "prev": "denik_avatara_010.html",
+      "next": "denik_avatara_012.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "* * *",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "* * *",
+      "file": "denik_avatara_012.html",
+      "words": 34,
+      "chars": 159,
+      "ideas": 10,
+      "role": "chapter",
+      "order": 8,
+      "prev": "denik_avatara_011.html",
+      "next": "denik_avatara_013.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "* * *",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "* * *",
+      "file": "denik_avatara_013.html",
+      "words": 66,
+      "chars": 330,
+      "ideas": 17,
+      "role": "chapter",
+      "order": 9,
+      "prev": "denik_avatara_012.html",
+      "next": "denik_avatara_014.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "* * *",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "* * *",
+      "file": "denik_avatara_014.html",
+      "words": 101,
+      "chars": 513,
+      "ideas": 23,
+      "role": "chapter",
+      "order": 10,
+      "prev": "denik_avatara_013.html",
+      "next": "denik_avatara_015.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "* * *",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "* * *",
+      "file": "denik_avatara_015.html",
+      "words": 30,
+      "chars": 160,
+      "ideas": 8,
+      "role": "chapter",
+      "order": 11,
+      "prev": "denik_avatara_014.html",
+      "next": "denik_avatara_016.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "* * *",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "* * *",
+      "file": "denik_avatara_016.html",
+      "words": 77,
+      "chars": 354,
+      "ideas": 19,
+      "role": "chapter",
+      "order": 12,
+      "prev": "denik_avatara_015.html",
+      "next": "denik_avatara_017.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "* * *",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "* * *",
+      "file": "denik_avatara_017.html",
+      "words": 63,
+      "chars": 341,
+      "ideas": 16,
+      "role": "chapter",
+      "order": 13,
+      "prev": "denik_avatara_016.html",
+      "next": "denik_avatara_018.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "* * *",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "V tichu",
+      "file": "denik_avatara_018.html",
+      "words": 20,
+      "chars": 108,
+      "ideas": 8,
+      "role": "chapter",
+      "order": 14,
+      "prev": "denik_avatara_017.html",
+      "next": "denik_avatara_019.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "V tichu",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "* * *",
+      "file": "denik_avatara_019.html",
+      "words": 32,
+      "chars": 142,
+      "ideas": 9,
+      "role": "chapter",
+      "order": 15,
+      "prev": "denik_avatara_018.html",
+      "next": "denik_avatara_020.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "* * *",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "* * *",
+      "file": "denik_avatara_020.html",
+      "words": 50,
+      "chars": 273,
+      "ideas": 13,
+      "role": "chapter",
+      "order": 16,
+      "prev": "denik_avatara_019.html",
+      "next": "denik_avatara_021.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "* * *",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "* * *",
+      "file": "denik_avatara_021.html",
+      "words": 31,
+      "chars": 163,
+      "ideas": 9,
+      "role": "chapter",
+      "order": 17,
+      "prev": "denik_avatara_020.html",
+      "next": "denik_avatara_022.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "* * *",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "* * *",
+      "file": "denik_avatara_022.html",
+      "words": 60,
+      "chars": 312,
+      "ideas": 15,
+      "role": "chapter",
+      "order": 18,
+      "prev": "denik_avatara_021.html",
+      "next": "denik_avatara_023.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "* * *",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "* * *",
+      "file": "denik_avatara_023.html",
+      "words": 45,
+      "chars": 235,
+      "ideas": 13,
+      "role": "chapter",
+      "order": 19,
+      "prev": "denik_avatara_022.html",
+      "next": "denik_avatara_024.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "* * *",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "* * *",
+      "file": "denik_avatara_024.html",
+      "words": 63,
+      "chars": 293,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 20,
+      "prev": "denik_avatara_023.html",
+      "next": "denik_avatara_025.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "* * *",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "* * *",
+      "file": "denik_avatara_025.html",
+      "words": 61,
+      "chars": 312,
+      "ideas": 15,
+      "role": "chapter",
+      "order": 21,
+      "prev": "denik_avatara_024.html",
+      "next": "denik_avatara_026.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "* * *",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "* * *",
+      "file": "denik_avatara_026.html",
+      "words": 48,
+      "chars": 237,
+      "ideas": 12,
+      "role": "chapter",
+      "order": 22,
+      "prev": "denik_avatara_025.html",
+      "next": "denik_avatara_027.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "* * *",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "* * *",
+      "file": "denik_avatara_027.html",
+      "words": 62,
+      "chars": 339,
+      "ideas": 15,
+      "role": "chapter",
+      "order": 23,
+      "prev": "denik_avatara_026.html",
+      "next": "denik_avatara_028.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "* * *",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "* * *",
+      "file": "denik_avatara_028.html",
+      "words": 39,
+      "chars": 189,
+      "ideas": 9,
+      "role": "chapter",
+      "order": 24,
+      "prev": "denik_avatara_027.html",
+      "next": "denik_avatara_029.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "* * *",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "* * *",
+      "file": "denik_avatara_029.html",
+      "words": 63,
+      "chars": 345,
+      "ideas": 12,
+      "role": "chapter",
+      "order": 25,
+      "prev": "denik_avatara_028.html",
+      "next": "denik_avatara_030.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "* * *",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "* * *",
+      "file": "denik_avatara_030.html",
+      "words": 60,
+      "chars": 301,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 26,
+      "prev": "denik_avatara_029.html",
+      "next": "denik_avatara_031.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "* * *",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "* * *",
+      "file": "denik_avatara_031.html",
+      "words": 50,
+      "chars": 248,
+      "ideas": 11,
+      "role": "chapter",
+      "order": 27,
+      "prev": "denik_avatara_030.html",
+      "next": "denik_avatara_032.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "* * *",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "* * *",
+      "file": "denik_avatara_032.html",
+      "words": 58,
+      "chars": 326,
+      "ideas": 17,
+      "role": "chapter",
+      "order": 28,
+      "prev": "denik_avatara_031.html",
+      "next": "denik_avatara_033.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "* * *",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "* * *",
+      "file": "denik_avatara_033.html",
+      "words": 49,
+      "chars": 246,
+      "ideas": 13,
+      "role": "chapter",
+      "order": 29,
+      "prev": "denik_avatara_032.html",
+      "next": "denik_avatara_034.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "* * *",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "* * *",
+      "file": "denik_avatara_034.html",
+      "words": 30,
+      "chars": 136,
+      "ideas": 10,
+      "role": "chapter",
+      "order": 30,
+      "prev": "denik_avatara_033.html",
+      "next": "denik_avatara_035.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "* * *",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "* * *",
+      "file": "denik_avatara_035.html",
+      "words": 32,
+      "chars": 151,
+      "ideas": 7,
+      "role": "chapter",
+      "order": 31,
+      "prev": "denik_avatara_034.html",
+      "next": "denik_avatara_036.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "* * *",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "* * *",
+      "file": "denik_avatara_036.html",
+      "words": 33,
+      "chars": 177,
+      "ideas": 10,
+      "role": "chapter",
+      "order": 32,
+      "prev": "denik_avatara_035.html",
+      "next": "denik_avatara_037.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "* * *",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "* * *",
+      "file": "denik_avatara_037.html",
+      "words": 43,
+      "chars": 236,
+      "ideas": 12,
+      "role": "chapter",
+      "order": 33,
+      "prev": "denik_avatara_036.html",
+      "next": "denik_avatara_038.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "* * *",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "* * *",
+      "file": "denik_avatara_038.html",
+      "words": 25,
+      "chars": 124,
+      "ideas": 7,
+      "role": "chapter",
+      "order": 34,
+      "prev": "denik_avatara_037.html",
+      "next": "denik_avatara_039.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "* * *",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "* * *",
+      "file": "denik_avatara_039.html",
+      "words": 70,
+      "chars": 340,
+      "ideas": 16,
+      "role": "chapter",
+      "order": 35,
+      "prev": "denik_avatara_038.html",
+      "next": "denik_avatara_040.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "* * *",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "* * *",
+      "file": "denik_avatara_040.html",
+      "words": 40,
+      "chars": 194,
+      "ideas": 12,
+      "role": "chapter",
+      "order": 36,
+      "prev": "denik_avatara_039.html",
+      "next": "denik_avatara_041.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "* * *",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "* * *",
+      "file": "denik_avatara_041.html",
+      "words": 70,
+      "chars": 322,
+      "ideas": 18,
+      "role": "chapter",
+      "order": 37,
+      "prev": "denik_avatara_040.html",
+      "next": "denik_avatara_042.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "* * *",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "* * *",
+      "file": "denik_avatara_042.html",
+      "words": 55,
+      "chars": 280,
+      "ideas": 15,
+      "role": "chapter",
+      "order": 38,
+      "prev": "denik_avatara_041.html",
+      "next": "denik_avatara_043.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "* * *",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "* * *",
+      "file": "denik_avatara_043.html",
+      "words": 52,
+      "chars": 251,
+      "ideas": 13,
+      "role": "chapter",
+      "order": 39,
+      "prev": "denik_avatara_042.html",
+      "next": "denik_avatara_044.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "* * *",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "* * *",
+      "file": "denik_avatara_044.html",
+      "words": 71,
+      "chars": 348,
+      "ideas": 19,
+      "role": "chapter",
+      "order": 40,
+      "prev": "denik_avatara_043.html",
+      "next": "denik_avatara_045.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "* * *",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Kam to odcházíme",
+      "file": "denik_avatara_045.html",
+      "words": 43,
+      "chars": 223,
+      "ideas": 13,
+      "role": "chapter",
+      "order": 41,
+      "prev": "denik_avatara_044.html",
+      "next": "about.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Kam to odcházíme",
           "id": null,
           "children": []
         }
@@ -81,7 +900,7 @@
       "ideas": 14,
       "role": "about",
       "order": null,
-      "prev": "denik_avatara_006.html",
+      "prev": "denik_avatara_045.html",
       "next": null,
       "toc": [
         {
@@ -96,14 +915,14 @@
   ],
   "totals": {
     "all": {
-      "words": 2084,
-      "chars": 11112,
-      "ideas": 511
+      "words": 2200,
+      "chars": 11320,
+      "ideas": 550
     },
     "chapters": {
-      "words": 1947,
-      "chars": 10218,
-      "ideas": 493
+      "words": 2063,
+      "chars": 10426,
+      "ideas": 532
     }
   }
 }
