@@ -28,118 +28,118 @@ tocBase:
         title: Deník Avatára
         hiddenTitle: false
       - link: denik_avatara_007.html
-        title: \* \* \*
+        title: '* * *'
         hiddenTitle: false
       - link: denik_avatara_008.html
-        title: \* \* \*
+        title: '* * *'
         hiddenTitle: false
       - link: denik_avatara_009.html
-        title: \* \* \*
+        title: '* * *'
         hiddenTitle: false
       - link: denik_avatara_010.html
-        title: \* \* \*
+        title: '* * *'
         hiddenTitle: false
       - link: denik_avatara_011.html
-        title: \* \* \*
+        title: '* * *'
         hiddenTitle: false
       - link: denik_avatara_012.html
-        title: \* \* \*
+        title: '* * *'
         hiddenTitle: false
       - link: denik_avatara_013.html
-        title: \* \* \*
+        title: '* * *'
         hiddenTitle: false
       - link: denik_avatara_014.html
-        title: \* \* \*
+        title: '* * *'
         hiddenTitle: false
       - link: denik_avatara_015.html
-        title: \* \* \*
+        title: '* * *'
         hiddenTitle: false
       - link: denik_avatara_016.html
-        title: \* \* \*
+        title: '* * *'
         hiddenTitle: false
       - link: denik_avatara_017.html
-        title: \* \* \*
+        title: '* * *'
         hiddenTitle: false
       - link: denik_avatara_018.html
         title: "V\_tichu"
         hiddenTitle: false
       - link: denik_avatara_019.html
-        title: \* \* \*
+        title: '* * *'
         hiddenTitle: false
       - link: denik_avatara_020.html
-        title: \* \* \*
+        title: '* * *'
         hiddenTitle: false
       - link: denik_avatara_021.html
-        title: \* \* \*
+        title: '* * *'
         hiddenTitle: false
       - link: denik_avatara_022.html
-        title: \* \* \*
+        title: '* * *'
         hiddenTitle: false
       - link: denik_avatara_023.html
-        title: \* \* \*
+        title: '* * *'
         hiddenTitle: false
       - link: denik_avatara_024.html
-        title: \* \* \*
+        title: '* * *'
         hiddenTitle: false
       - link: denik_avatara_025.html
-        title: \* \* \*
+        title: '* * *'
         hiddenTitle: false
       - link: denik_avatara_026.html
-        title: \* \* \*
+        title: '* * *'
         hiddenTitle: false
       - link: denik_avatara_027.html
-        title: \* \* \*
+        title: '* * *'
         hiddenTitle: false
       - link: denik_avatara_028.html
-        title: \* \* \*
+        title: '* * *'
         hiddenTitle: false
       - link: denik_avatara_029.html
-        title: \* \* \*
+        title: '* * *'
         hiddenTitle: false
       - link: denik_avatara_030.html
-        title: \* \* \*
+        title: '* * *'
         hiddenTitle: false
       - link: denik_avatara_031.html
-        title: \* \* \*
+        title: '* * *'
         hiddenTitle: false
       - link: denik_avatara_032.html
-        title: \* \* \*
+        title: '* * *'
         hiddenTitle: false
       - link: denik_avatara_033.html
-        title: \* \* \*
+        title: '* * *'
         hiddenTitle: false
       - link: denik_avatara_034.html
-        title: \* \* \*
+        title: '* * *'
         hiddenTitle: false
       - link: denik_avatara_035.html
-        title: \* \* \*
+        title: '* * *'
         hiddenTitle: false
       - link: denik_avatara_036.html
-        title: \* \* \*
+        title: '* * *'
         hiddenTitle: false
       - link: denik_avatara_037.html
-        title: \* \* \*
+        title: '* * *'
         hiddenTitle: false
       - link: denik_avatara_038.html
-        title: \* \* \*
+        title: '* * *'
         hiddenTitle: false
       - link: denik_avatara_039.html
-        title: \* \* \*
+        title: '* * *'
         hiddenTitle: false
       - link: denik_avatara_040.html
-        title: \* \* \*
+        title: '* * *'
         hiddenTitle: false
       - link: denik_avatara_041.html
-        title: \* \* \*
+        title: '* * *'
         hiddenTitle: false
       - link: denik_avatara_042.html
-        title: \* \* \*
+        title: '* * *'
         hiddenTitle: false
       - link: denik_avatara_043.html
-        title: \* \* \*
+        title: '* * *'
         hiddenTitle: false
       - link: denik_avatara_044.html
-        title: \* \* \*
+        title: '* * *'
         hiddenTitle: false
       - link: denik_avatara_045.html
         title: Kam to odcházíme
