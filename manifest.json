@@ -8,8 +8,8 @@
   "edition": "poezie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "marvan-denik-avatara-381b5b4",
-  "revision": "381b5b4",
+  "identifier": "marvan-denik-avatara-a3f1e36",
+  "revision": "a3f1e36",
   "readingOrder": [
     "promo.html",
     "denik_avatara_005.html",
@@ -56,8 +56,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Tue Oct 11 2022 09:11:10 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1665479470812
+    "date": "Fri Oct 14 2022 13:08:17 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1665752897637
   },
   "documents": [
     {
@@ -895,9 +895,9 @@
     {
       "title": "Tiráž",
       "file": "about.html",
-      "words": 131,
-      "chars": 860,
-      "ideas": 14,
+      "words": 135,
+      "chars": 897,
+      "ideas": 15,
       "role": "about",
       "order": null,
       "prev": "denik_avatara_045.html",
@@ -915,9 +915,9 @@
   ],
   "totals": {
     "all": {
-      "words": 2200,
-      "chars": 11320,
-      "ideas": 550
+      "words": 2204,
+      "chars": 11357,
+      "ideas": 551
     },
     "chapters": {
       "words": 2063,
