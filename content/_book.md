@@ -13,6 +13,7 @@ meta:
   edition: poezie
   publisherShort: mkp
   contentType: poetry
+  isbn: 978-80-274-2823-6
 readingOrder:
   - promo.html
   - denik_avatara_005.html
@@ -184,7 +185,7 @@ tocBase:
         title: Kam to odcházíme
         hiddenTitle: false
     isSection: true
-    listType: numbered
+    listType: plain
 static:
   - style
   - scripts
