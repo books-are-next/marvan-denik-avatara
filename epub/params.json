@@ -9,7 +9,8 @@
       "modified": "2021-10-07T00:00:00.000Z",
       "edition": "poezie",
       "publisherShort": "mkp",
-      "contentType": "poetry"
+      "contentType": "poetry",
+      "isbn": "978-80-274-2823-6"
     },
     "elements": {
       "title": "MLP.uroven1.*\nMLP.uroven2.kapitola\nMLP.uroven2.basne\nMLP.uroven2.kapitola.dopis\nMLP.uroven2.kapitola.upraven\ne.booknadpis2\ne.booknadpis2bezodstrnkovn\ne.booknadpis2probasne\ne.bookobsah\nheading.id.2\nmlpuroven1.*\nmlpuroven2.*\nMLP.UROVEN2.BASNE.II\nMLP.UROVEN2.KAPITOLA\nMLP.UROVEN2.PARAL\nMLP.uroven1.PARAL",
@@ -36,7 +37,7 @@
       {
         "isSection": true,
         "id": "section-1",
-        "listType": "numbered",
+        "listType": "plain",
         "devoured": false,
         "children": [
           {
@@ -981,6 +982,6 @@
       "user": "books-are-next",
       "repo": "marvan-denik-avatara"
     },
-    "generatedAt": 1665478896542
+    "generatedAt": 1665479387163
   }
 }
